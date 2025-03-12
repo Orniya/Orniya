@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orniya
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on finding mentor to navigate me through my programming journey.
+- 💞️ I’m looking to collaborate on full stack web project.
 - 📫 How to reach me at orniyazeidan@gmail.com
 - 😄 Pronouns: miss
 - ⚡ Fun fact: I'm already a polyglot in natural languages and thriving to become polyglot in programming languages too.
