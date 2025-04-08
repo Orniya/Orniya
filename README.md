@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack web projects.
 - 📫 How to reach me at orniyazeidan@gmail.com
 - 😄 Pronouns: miss
-- ⚡ Fun fact: I'm already a polyglot in natural languages and thriving to become polyglot in programming languages too.
+- ⚡ Fun fact: I'm already a polyglot in natural languages and thriving to become a polyglot in programming languages too.
 
 <!---
 Orniya/Orniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
