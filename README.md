@@ -11,6 +11,7 @@
 
 ![orniya's Stats](https://github-readme-stats.vercel.app/api?username=orniya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![orniya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=orniya&theme=tokyonight&hide_border=false)
+![orniya's Streak](https://github-readme-streak-stats.demolab.com/?user=orniya&theme=tokyonight&hide_border=false)
+
 
 ![orniya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orniya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
