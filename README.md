@@ -1,7 +1,7 @@
-### Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 # My name is Orniya
 
-# A sophomore software engineering student
+## A sophomore software engineering student
 
 I’ve been exploring full-stack development and I’m committed to learning the language of the web —  
 one tag, one style, and one bug at a time.
