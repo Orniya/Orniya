@@ -1,12 +1,12 @@
+### Hello there 👋
+
+
 - 👋 Hi, I’m @Orniya
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on full stack web projects.
-- 📫 How to reach me at orniyazeidan@gmail.com
-- 😄 Pronouns: miss
+- ✨ A sophomore software engineering student sharing my journey here.
+- 👀 I’m interested in and exploring full stack development.
+- 💞️ I’m looking to collaborate on front-web projects.
+- 📫 How to reach me at orniyazeidan@gmail.com or [telegram](http://t.me/orniya_10)
+- ⚡my linkedin profile: [click to see](https://www.linkedin.com/in/orniya-zeidan-234a54214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8D1SYGCsS1StBb6%2BnCvdVw%3D%3D)
 - ⚡ Fun fact: I have PHD in clumsiness.
 
-<!---
-Orniya/Orniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+(![orniya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orniya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact))
