@@ -43,10 +43,11 @@ one tag, one style, and one bug at a time.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
   </a>
   <a href="https://t.me/orniya_10" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="32" height="32" alt="Telegram" />
-</a>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" />
+  </a>
 </p>
+
+
 
 ---
 
